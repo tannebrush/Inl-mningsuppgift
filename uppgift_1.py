@@ -11,7 +11,8 @@ def is_odd(x: int) -> bool:
 print(is_odd(10))  
 print(is_odd(5))   
 print(is_odd(15))  
-print(is_odd(-5))  
+print(is_odd(-5))
+print(is_odd(-2)) 
 
 
 
